@@ -8,7 +8,3 @@ Salary Management has 3 users
 
 
 Each has several functionality
-
-More details on: 
-
-https://nowshad7.blogspot.com/p/salary-management-system.html
